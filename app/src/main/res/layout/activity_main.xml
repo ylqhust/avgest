@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.ylq.avgest.MainActivity">
+
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="horizontal"
+       android:visibility="gone">
+      <TextView
+          android:id="@+id/activity_main_xml_tv_guanfang"
+          android:layout_width="0dp"
+          android:layout_height="40dp"
+          android:layout_weight="1"
+          android:gravity="center"
+          android:background="@color/mac_qq_blue"
+          android:textColor="@color/white"
+         android:text="官方谱"/>
+      <TextView
+          android:id="@+id/activity_main_xml_tv_zizhi"
+          android:layout_width="0dp"
+          android:layout_height="40dp"
+          android:layout_weight="1"
+          android:text="自制谱"
+          android:background="@color/mac_qq_blue"
+          android:textColor="@color/white"
+          android:gravity="center"/>
+   </LinearLayout>
+   <RelativeLayout
+       android:layout_width="match_parent"
+       android:layout_height="60dp">
+      <Button
+          android:id="@+id/activity_main_xml_button_search"
+          android:layout_width="50dp"
+          android:layout_height="match_parent"
+          android:layout_alignParentRight="true"
+          android:text="搜索"
+          android:layout_marginBottom="8dp"
+          android:layout_marginTop="8dp"
+          android:layout_marginLeft="8dp"
+          android:layout_marginRight="8dp"
+          android:background="@color/mac_qq_blue"
+          android:textColor="@color/white"
+          android:textSize="18sp"/>
+      <EditText
+          android:id="@+id/activity_main_xml_et_search"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:layout_toLeftOf="@+id/activity_main_xml_button_search"
+          android:background="@color/white"
+          android:hint="输入搜索内容"/>
+   </RelativeLayout>
+   <android.support.v7.widget.RecyclerView
+       android:id="@+id/activity_main_xml_recyclerview"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+
+   </android.support.v7.widget.RecyclerView>
+
+</LinearLayout>

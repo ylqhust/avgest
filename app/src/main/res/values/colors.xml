@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="avgest_theme_color">#F76026</color>
+    <color name="white">#FFFFFF</color>
+    <color name="mac_qq_blue">#29abdf</color>
+    <color name="mac_qq_head_board">#7cd5db</color>
+</resources>
