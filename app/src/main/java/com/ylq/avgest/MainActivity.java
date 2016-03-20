@@ -12,6 +12,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.daimajia.numberprogressbar.NumberProgressBar;
@@ -145,7 +146,10 @@ public class MainActivity extends AppCompatActivity {
         +File.separator+"BlueCat3");
         if (!dis.isDirectory() || !dis.exists())
             dis.mkdirs();
-        new DownloadTask(dialog, numberProgressBar,dis, new Dealable() {
+        new DownloadTask(dialog,
+                (TextView)view.findViewById(R.id.wenjiandaxiao),
+                (TextView)view.findViewById(R.id.wenjianming),
+                numberProgressBar,dis, new Dealable() {
             @Override
             public void onSuccess(Object o) {
                 dialog.dismiss();

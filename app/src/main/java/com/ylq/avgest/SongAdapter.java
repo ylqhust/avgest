@@ -103,7 +103,10 @@ public class SongAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>{
                             .setCancelable(false)
                             .setView(view)
                             .create();
-                    new DownloadTask(dialog,numberProgressBar,file, new Dealable() {
+                    new DownloadTask(dialog,
+                            (TextView)view.findViewById(R.id.wenjiandaxiao),
+                            (TextView)view.findViewById(R.id.wenjianming),
+                            numberProgressBar,file, new Dealable() {
                         @Override
                         public void onSuccess(Object o) {
                             if (dialog.isShowing())

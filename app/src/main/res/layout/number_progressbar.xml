@@ -3,6 +3,21 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/wenjianming"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="文件名"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/wenjiandaxiao"
+        android:text="文件大小"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="16dp"/>
+
     <com.daimajia.numberprogressbar.NumberProgressBar
         android:id="@+id/numberbar1"
         android:padding="20dp"

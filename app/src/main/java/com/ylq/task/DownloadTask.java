@@ -3,6 +3,8 @@ package com.ylq.task;
 import android.app.Dialog;
 import android.os.AsyncTask;
 import android.support.v7.app.AlertDialog;
+import android.view.View;
+import android.widget.TextView;
 
 import com.daimajia.numberprogressbar.NumberProgressBar;
 import com.ylq.avgest.Dealable;
@@ -25,12 +27,16 @@ public class DownloadTask extends AsyncTask<DownloadTask.DownloadItem,Integer,St
     private AlertDialog dialog;
     private Dealable dealable;
     private NumberProgressBar numberProgressBar;
+    private TextView wenjianming;
+    private TextView wenjiandaxiao;
     private DownloadItem[] items;
 
-    public DownloadTask(AlertDialog dialog, NumberProgressBar numberProgressBar, File distance, Dealable dealable){
+    public DownloadTask(AlertDialog dialog,TextView wenjiandaxiao,TextView wenjianming, NumberProgressBar numberProgressBar, File distance, Dealable dealable){
         this.distance = distance;
         this.dialog = dialog;
         this.dealable = dealable;
+        this.wenjiandaxiao = wenjiandaxiao;
+        this.wenjianming = wenjianming;
         this.numberProgressBar = numberProgressBar;
     }
 
@@ -45,7 +51,7 @@ public class DownloadTask extends AsyncTask<DownloadTask.DownloadItem,Integer,St
         for(int i=0;i<params.length;i++){
             publishProgress(0,i);
             try {
-                if (DownloadFile(distance,params[i].fileName,params[i].fileUrl))
+                if (DownloadFile(distance,params[i].fileName,params[i].fileUrl,i))
                     publishProgress(100);
             } catch (IOException e) {
                 e.printStackTrace();
@@ -62,12 +68,33 @@ public class DownloadTask extends AsyncTask<DownloadTask.DownloadItem,Integer,St
     @Override
     protected void onProgressUpdate(Integer... integer){
         numberProgressBar.setProgress(integer[0]);
-        if (integer.length == 2)
-            dialog.setTitle("正在下载"+items[integer[1]].fileName);
+        if (integer.length == 2){
+            dialog.setTitle("正在下载:");
+            wenjianming.setText("文件名:"+items[integer[1]].fileName);
+            wenjiandaxiao.setVisibility(View.GONE);
+        }
+        if (integer.length == 3){
+            dialog.setTitle("正在下载:");
+            wenjianming.setText("文件名:"+items[integer[1]].fileName);
+            wenjiandaxiao.setVisibility(View.VISIBLE);
+            wenjiandaxiao.setText("文件大小:"+getFormatSize(integer[2]));
+        }
+    }
+
+    private String getFormatSize(Integer integer) {
+        if (integer < 1024)
+            return integer+"byte";
+        integer /= 1024;
+        if (integer < 1024)
+            return integer+"kB";
+        integer *=10;
+        integer/=1024;
+        float s = (float) (integer/10.0);
+        return s+"Mb";
     }
 
 
-    private boolean DownloadFile(File dir,String fileName,String url) throws IOException {
+    private boolean DownloadFile(File dir,String fileName,String url,int index) throws IOException {
         URL u = new URL(url);
         HttpURLConnection conn = (HttpURLConnection) u.openConnection();
         conn.setConnectTimeout(5000);
@@ -79,6 +106,7 @@ public class DownloadTask extends AsyncTask<DownloadTask.DownloadItem,Integer,St
             return false;
         }
         int fileLength = conn.getContentLength();
+        publishProgress(0,0,fileLength);
 
         File file = new File(dir.toString()+File.separator+fileName);
         InputStream stream = conn.getInputStream();
