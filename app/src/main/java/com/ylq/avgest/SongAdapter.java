@@ -14,6 +14,7 @@ import android.widget.Toast;
 import com.daimajia.numberprogressbar.NumberProgressBar;
 import com.facebook.drawee.view.SimpleDraweeView;
 import com.ylq.FileManager;
+import com.ylq.singable.Song;
 import com.ylq.task.DownloadTask;
 
 import java.io.File;
@@ -79,18 +80,21 @@ public class SongAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>{
             mmUse.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
-                    String songPath = Tools.getTencentPath(song.path);
+                    String songPath = song.getSongPath();
                     File file = new File(songPath);
                     if (!file.isDirectory() && !file.exists())
                         file.mkdirs();
-                    Map<String, String> readyDownloadFilesUrl = Tools.checkFile(file);
-                    List<String> urls = new ArrayList<String>();
+
+                    Map<String, String> readyDownloadFilesUrl = song.checkFile(file);
+
+                    List<DownloadTask.DownloadItem> itemList = new ArrayList<DownloadTask.DownloadItem>();
                     Observable.from(readyDownloadFilesUrl.keySet())
-                            .map(key->readyDownloadFilesUrl.get(key))
-                            .subscribe(url->urls.add(url));
-                    String[] urlss = new String[urls.size()];
-                    for(int i=0;i<urls.size();i++)
-                        urlss[i] = urls.get(i);
+                            .map(fileName->new DownloadTask.DownloadItem(fileName,readyDownloadFilesUrl.get(fileName)))
+                            .subscribe(item->itemList.add(item));
+                    DownloadTask.DownloadItem[] items = new DownloadTask.DownloadItem[itemList.size()];
+                    for(int i=0;i<items.length;i++)
+                        items[i] = itemList.get(i);
+
                     View view = LayoutInflater.from(context)
                             .inflate(R.layout.number_progressbar,null);
                     NumberProgressBar numberProgressBar = (NumberProgressBar) view.findViewById(R.id.numberbar1);
@@ -104,10 +108,10 @@ public class SongAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>{
                         public void onSuccess(Object o) {
                             if (dialog.isShowing())
                                 dialog.dismiss();
-                            FileManager.MoveFile(file);
+                            List<String> imds = FileManager.MoveFile(file);
                             new AlertDialog.Builder(context)
-                                    .setTitle("使用成功")
-                                    .setMessage("进入蓝猫3选择玩名侦探柯南即可")
+                                    .setTitle(imds.size()==0?"友情提示":"使用成功")
+                                    .setMessage(imds.size()==0?"这首歌曲没有可以使用的imd文件":getMessage(imds)+"进入蓝猫3选择玩名侦探柯南即可")
                                     .create()
                                     .show();
                         }
@@ -118,7 +122,15 @@ public class SongAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>{
                                 dialog.dismiss();
                             Toast.makeText(context,(String)o,Toast.LENGTH_LONG).show();
                         }
-                    }).execute(urlss);
+                    }).execute(items);
+                }
+
+                private String getMessage(List<String> imds) {
+                    StringBuilder sb = new StringBuilder();
+                    sb.append("可使用imd列表\n");
+                    for(int i=0;i<imds.size();i++)
+                        sb.append(imds.get(i)+"\n");
+                    return sb.toString();
                 }
             });
         }

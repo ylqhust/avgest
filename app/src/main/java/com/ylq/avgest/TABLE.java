@@ -7,6 +7,8 @@ import java.net.URL;
  */
 public class TABLE {
 
+    public static final String SPEC_CODE_REGX = "[aA][vV][gG][eE][sS][tT]";
+
     private static final String PREFIX = "http://game.ds.qq.com/Com_SongRes/song/";
     private static final String EASY = "ez";
     private static final String NORMAL = "nm";
@@ -24,6 +26,8 @@ public class TABLE {
     private static final String _PE_INFIX = "_Papa_Easy";
     private static final String _PN_INFIX = "_Papa_Normal";
     private static final String _PH_INFIX = "_Papa_Hard";
+
+    public static final String CUSTOM_SPECTRUM_URL = "https://raw.githubusercontent.com/ylqhust/customSpectrum/master/customSpectrum.json";
 
 
 

@@ -19,13 +19,13 @@ import java.net.URL;
 /**
  * Created by apple on 16/3/19.
  */
-public class DownloadTask extends AsyncTask<String,Integer,String> {
+public class DownloadTask extends AsyncTask<DownloadTask.DownloadItem,Integer,String> {
 
     private File distance;//下载文件的存储地址，默认是在官方的文件夹中
     private AlertDialog dialog;
     private Dealable dealable;
     private NumberProgressBar numberProgressBar;
-    private String[] urls;
+    private DownloadItem[] items;
 
     public DownloadTask(AlertDialog dialog, NumberProgressBar numberProgressBar, File distance, Dealable dealable){
         this.distance = distance;
@@ -40,12 +40,12 @@ public class DownloadTask extends AsyncTask<String,Integer,String> {
         numberProgressBar.setProgress(0);
     }
     @Override
-    protected String doInBackground(String... params) {
-        urls = params;
+    protected String doInBackground(DownloadItem... params) {
+        items = params;
         for(int i=0;i<params.length;i++){
             publishProgress(0,i);
             try {
-                if (DownloadFile(distance, TABLE.getFileName(params[i]),params[i]))
+                if (DownloadFile(distance,params[i].fileName,params[i].fileUrl))
                     publishProgress(100);
             } catch (IOException e) {
                 e.printStackTrace();
@@ -63,7 +63,7 @@ public class DownloadTask extends AsyncTask<String,Integer,String> {
     protected void onProgressUpdate(Integer... integer){
         numberProgressBar.setProgress(integer[0]);
         if (integer.length == 2)
-            dialog.setTitle("正在下载"+TABLE.getFileName(urls[integer[1]]));
+            dialog.setTitle("正在下载"+items[integer[1]].fileName);
     }
 
 
@@ -95,6 +95,16 @@ public class DownloadTask extends AsyncTask<String,Integer,String> {
         stream.close();
         conn.disconnect();
         return true;
+    }
+
+    public static class DownloadItem{
+        public String fileName;
+        public String fileUrl;
+
+        public DownloadItem(String fileName, String fileUrl) {
+            this.fileName = fileName;
+            this.fileUrl = fileUrl;
+        }
     }
 
 }

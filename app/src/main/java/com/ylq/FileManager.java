@@ -9,6 +9,8 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
+import java.util.ArrayList;
+import java.util.List;
 
 import rx.Observable;
 
@@ -20,7 +22,8 @@ import static com.facebook.common.internal.ByteStreams.copy;
 public class FileManager {
     //默认将所有文件拷贝到蓝猫的名侦探柯南文件夹下，这意味着，玩家只需玩名侦探柯南即可
     private static final String DEFAULT_DIS = "mingzhentankenan";
-    public static void MoveFile(File sourDir){
+    public static List<String> MoveFile(File sourDir){
+        List<String> imds = new ArrayList<>();
         File disDir = getDisDir();
         File bdfbd = new File(disDir.getPath()+File.separator
         +"res"+File.separator+"song"+File.separator+DEFAULT_DIS);
@@ -32,6 +35,8 @@ public class FileManager {
         Observable.from(sourDir.listFiles())
                 .map(file -> {
                     try {
+                        if (file.getName().endsWith(".imd"))
+                            imds.add(file.getName());
                         return new NameWithIs(new FileInputStream(file), file.getName());
                     } catch (FileNotFoundException e) {
                         e.printStackTrace();
@@ -52,7 +57,7 @@ public class FileManager {
                         e.printStackTrace();
                     }
                 });
-
+        return imds;
     }
 
     private static File getDisDir() {
@@ -76,9 +81,9 @@ public class FileManager {
         public NameWithIs(InputStream is, String name) {
             this.is = is;
             if (!name.contains("_"))
-                this.name = name.replaceFirst("[0-9a-zA-Z]*\\.",DEFAULT_DIS+".");
+                this.name = name.replaceFirst("[^_.]*\\.",DEFAULT_DIS+".");
             else
-                this.name = name.replaceFirst("[0-9a-zA-Z]*_",DEFAULT_DIS+"_");
+                this.name = name.replaceFirst("[^_.]*_",DEFAULT_DIS+"_");
         }
     }
 }

@@ -1,46 +1,32 @@
-package com.ylq.avgest;
+package com.ylq.singable;
 
 import android.os.Environment;
 
+import com.ylq.avgest.TABLE;
+
 import java.io.File;
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
-import rx.Observable;
-
 /**
- * Created by apple on 16/3/19.
+ * Created by apple on 16/3/20.
  */
-public class Tools {
-    public static String getTencentPath(String path){
+public class TencentSong extends Song {
+
+    public TencentSong(String name, String path, String singer,Map<String,String> readyFilter) {
+        super(name, path, singer,readyFilter);
+    }
+
+
+    @Override
+    public String getSongPath() {
         String tencentPath = Environment.getExternalStorageDirectory().toString()+ File.separator+"RM"+File.separator
                 +"res"
                 +File.separator+"song";
         return tencentPath+File.separator+path;
     }
 
-    /**
-     *
-     * @param file
-     * @return 返回待下载的文件名称和文件的url
-     */
-    public static Map<String, String> checkFile(File file) {
-        Map<String,String> readyDownloadUrl = getAllFileType(file.getName());
-        File[] files = file.listFiles();
-        if (files == null)
-            return null;
-        Observable.from(files)
-                .map(f0->f0.getName())
-                .subscribe(name->{
-                    if (readyDownloadUrl.containsKey(name))
-                        readyDownloadUrl.remove(name);
-                });
-        return readyDownloadUrl;
-    }
-
-    public static Map<String,String> getAllFileType(String path){
+    public static Map<String,String> getReadyFilter(String path){
         Map<String,String> all = new HashMap<>();
         all.put(TABLE.getFileName(TABLE.get_4K_ez(path)),
                 TABLE.get_4K_ez(path));
