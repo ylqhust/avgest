@@ -1,0 +1,522 @@
+    <m_szArtist>贝多芬</m_szArtist>
+    <m_szArtist>许嵩</m_szArtist>
+    <m_szArtist>奶牛</m_szArtist>
+    <m_szArtist>T-ara (皇冠团)</m_szArtist>
+    <m_szArtist>褐眼女孩</m_szArtist>
+    <m_szArtist>滨崎步</m_szArtist>
+    <m_szArtist>凤凰传奇</m_szArtist>
+    <m_szArtist>蔡依林</m_szArtist>
+    <m_szArtist>邹天恒</m_szArtist>
+    <m_szArtist>王心凌</m_szArtist>
+    <m_szArtist>慕容晓晓</m_szArtist>
+    <m_szArtist>张韶涵</m_szArtist>
+    <m_szArtist>许嵩</m_szArtist>
+    <m_szArtist>BY2 (海外音乐人)</m_szArtist>
+    <m_szArtist>R300K (海外音乐人)</m_szArtist>
+    <m_szArtist>Memme (海外音乐人)</m_szArtist>
+    <m_szArtist>丹戈尔</m_szArtist>
+    <m_szArtist>KenT</m_szArtist>
+    <m_szArtist>慕容晓晓</m_szArtist>
+    <m_szArtist>许嵩</m_szArtist>
+    <m_szArtist>林俊杰</m_szArtist>
+    <m_szArtist>金莎</m_szArtist>
+    <m_szArtist>小虎队</m_szArtist>
+    <m_szArtist>范晓萱</m_szArtist>
+    <m_szArtist>张杰</m_szArtist>
+    <m_szArtist>阿杜</m_szArtist>
+    <m_szArtist>乌兰图雅</m_szArtist>
+    <m_szArtist>凤凰传奇</m_szArtist>
+    <m_szArtist>Up Girls (海外音乐人)</m_szArtist>
+    <m_szArtist>林俊杰</m_szArtist>
+    <m_szArtist>BY2 (海外音乐人)</m_szArtist>
+    <m_szArtist>WolF.R (暗黑狼)</m_szArtist>
+    <m_szArtist>WolF.R (暗黑狼)</m_szArtist>
+    <m_szArtist>纯早工作室</m_szArtist>
+    <m_szArtist>祈合</m_szArtist>
+    <m_szArtist>凤凰传奇</m_szArtist>
+    <m_szArtist>AstroKid (海外音乐人</m_szArtist>
+    <m_szArtist>纯早工作室</m_szArtist>
+    <m_szArtist>纯早工作室</m_szArtist>
+    <m_szArtist>BY2 (海外音乐人)</m_szArtist>
+    <m_szArtist>橘子香水</m_szArtist>
+    <m_szArtist>Tank (台湾音乐人)</m_szArtist>
+    <m_szArtist>五月天</m_szArtist>
+    <m_szArtist>萧敬腾</m_szArtist>
+    <m_szArtist>花儿乐队</m_szArtist>
+    <m_szArtist>潘玮柏&amp;弦子</m_szArtist>
+    <m_szArtist>蔡依林</m_szArtist>
+    <m_szArtist>林俊杰</m_szArtist>
+    <m_szArtist>Kara (海外音乐人)</m_szArtist>
+    <m_szArtist>蔡依林</m_szArtist>
+    <m_szArtist>徐良</m_szArtist>
+    <m_szArtist>王麟</m_szArtist>
+    <m_szArtist>邓超</m_szArtist>
+    <m_szArtist>Lady Gaga (海外音乐人)</m_szArtist>
+    <m_szArtist>乐天女孩</m_szArtist>
+    <m_szArtist>飞儿乐团</m_szArtist>
+    <m_szArtist>S Club 7 (海外音乐人)</m_szArtist>
+    <m_szArtist>赫曼·尼克</m_szArtist>
+    <m_szArtist>微笑姐妹</m_szArtist>
+    <m_szArtist>兰卡</m_szArtist>
+    <m_szArtist>曲婉婷</m_szArtist>
+    <m_szArtist>陈楚生</m_szArtist>
+    <m_szArtist>陈楚生</m_szArtist>
+    <m_szArtist>黄龄</m_szArtist>
+    <m_szArtist>马克西姆</m_szArtist>
+    <m_szArtist>武艺</m_szArtist>
+    <m_szArtist>Juni (海外音乐人)</m_szArtist>
+    <m_szArtist>SEED9 (海外音乐人)</m_szArtist>
+    <m_szArtist>鸟叔</m_szArtist>
+    <m_szArtist>汪苏泷</m_szArtist>
+    <m_szArtist>SEED9 (海外音乐人)</m_szArtist>
+    <m_szArtist>祈合</m_szArtist>
+    <m_szArtist>洪流之源</m_szArtist>
+    <m_szArtist>洪流之源</m_szArtist>
+    <m_szArtist>洪流之源</m_szArtist>
+    <m_szArtist>洪流之源</m_szArtist>
+    <m_szArtist>祈合</m_szArtist>
+    <m_szArtist>祈合</m_szArtist>
+    <m_szArtist>MAZO (海外音乐人)</m_szArtist>
+    <m_szArtist>金莎</m_szArtist>
+    <m_szArtist>苏醒</m_szArtist>
+    <m_szArtist>少女时代</m_szArtist>
+    <m_szArtist>JerryC (台湾音乐人)</m_szArtist>
+    <m_szArtist>周杰伦</m_szArtist>
+    <m_szArtist>曲泉丞</m_szArtist>
+    <m_szArtist>泰勒·斯威夫特</m_szArtist>
+    <m_szArtist>Kara (海外音乐人)</m_szArtist>
+    <m_szArtist>徐良</m_szArtist>
+    <m_szArtist>M2U (海外音乐人)</m_szArtist>
+    <m_szArtist>星之物语</m_szArtist>
+    <m_szArtist>　</m_szArtist>
+    <m_szArtist>Jessica Wolff (海外音乐人)</m_szArtist>
+    <m_szArtist>张震岳</m_szArtist>
+    <m_szArtist>徐良 (feat.孙羽幽)</m_szArtist>
+    <m_szArtist>马克西姆</m_szArtist>
+    <m_szArtist>MOVE (海外音乐人)</m_szArtist>
+    <m_szArtist>QQ乐团</m_szArtist>
+    <m_szArtist>T-ara (皇冠团)</m_szArtist>
+    <m_szArtist>彩虹</m_szArtist>
+    <m_szArtist>吉克隽逸</m_szArtist>
+    <m_szArtist>Flo Rida (海外音乐人)</m_szArtist>
+    <m_szArtist>鸟叔</m_szArtist>
+    <m_szArtist>汪苏泷</m_szArtist>
+    <m_szArtist>王力宏</m_szArtist>
+    <m_szArtist>火影忍者</m_szArtist>
+    <m_szArtist>艾斯?胡德</m_szArtist>
+    <m_szArtist>王力宏</m_szArtist>
+    <m_szArtist>头文字D</m_szArtist>
+    <m_szArtist>MC梦</m_szArtist>
+    <m_szArtist>Paul Bazooka (海外音乐人)</m_szArtist>
+    <m_szArtist>T-ara (皇冠团)</m_szArtist>
+    <m_szArtist>陈美</m_szArtist>
+    <m_szArtist>董贞</m_szArtist>
+    <m_szArtist>M2U (海外音乐人)</m_szArtist>
+    <m_szArtist>初音未来</m_szArtist>
+    <m_szArtist>Nomiko (海外音乐人)</m_szArtist>
+    <m_szArtist>JUN.A (海外音乐人)</m_szArtist>
+    <m_szArtist>M2U (海外音乐人)</m_szArtist>
+    <m_szArtist>T-ara (皇冠团) N4</m_szArtist>
+    <m_szArtist>Super Junior-M</m_szArtist>
+    <m_szArtist>Cranky (海外音乐人)</m_szArtist>
+    <m_szArtist>G-Dragon (权志龙)</m_szArtist>
+    <m_szArtist>徐良 (feat.杨曦)</m_szArtist>
+    <m_szArtist>M2U (海外音乐人)</m_szArtist>
+    <m_szArtist>M2U (海外音乐人)</m_szArtist>
+    <m_szArtist>BigBang (海外音乐人)</m_szArtist>
+    <m_szArtist>M2U (海外音乐人)</m_szArtist>
+    <m_szArtist>Beyond (香港音乐人)</m_szArtist>
+    <m_szArtist>郭书瑶</m_szArtist>
+    <m_szArtist>Tank (台湾音乐人)</m_szArtist>
+    <m_szArtist>齐秦</m_szArtist>
+    <m_szArtist>杨沛宜</m_szArtist>
+    <m_szArtist>戴安娜·柏启华</m_szArtist>
+    <m_szArtist>戴安娜·柏启华</m_szArtist>
+    <m_szArtist>迪克牛仔&amp;弦子</m_szArtist>
+    <m_szArtist>Wonder Girls (奇迹女孩)</m_szArtist>
+    <m_szArtist>李克勤</m_szArtist>
+    <m_szArtist>筷子兄弟</m_szArtist>
+    <m_szArtist>胡夏</m_szArtist>
+    <m_szArtist>老狼</m_szArtist>
+    <m_szArtist>张震岳</m_szArtist>
+    <m_szArtist>贺斗战神开测</m_szArtist>
+    <m_szArtist>贺斗战神开测</m_szArtist>
+    <m_szArtist>DJ.Okawari (海外音乐人)</m_szArtist>
+    <m_szArtist>孙燕姿</m_szArtist>
+    <m_szArtist>YUIMINO+ (海外音乐人)</m_szArtist>
+    <m_szArtist>金钟旭&amp;姜敏京</m_szArtist>
+    <m_szArtist>Joe Satriani (海外音乐人)</m_szArtist>
+    <m_szArtist>Lin-G (海外音乐人)</m_szArtist>
+    <m_szArtist>周杰伦</m_szArtist>
+    <m_szArtist>曾志伟</m_szArtist>
+    <m_szArtist>圣斗士星矢</m_szArtist>
+    <m_szArtist>罗志祥</m_szArtist>
+    <m_szArtist>周杰伦&amp;袁咏琳</m_szArtist>
+    <m_szArtist>陶喆</m_szArtist>
+    <m_szArtist>M2U (海外音乐人)</m_szArtist>
+    <m_szArtist>銀魂</m_szArtist>
+    <m_szArtist>梁静茹</m_szArtist>
+    <m_szArtist>　</m_szArtist>
+    <m_szArtist>Cutie Pai (海外音乐人)</m_szArtist>
+    <m_szArtist>火影忍者</m_szArtist>
+    <m_szArtist>森永真由美</m_szArtist>
+    <m_szArtist>韩庚</m_szArtist>
+    <m_szArtist>简单计划</m_szArtist>
+    <m_szArtist>夜愿</m_szArtist>
+    <m_szArtist>温岚</m_szArtist>
+    <m_szArtist>周杰伦</m_szArtist>
+    <m_szArtist>五月天</m_szArtist>
+    <m_szArtist>五月天</m_szArtist>
+    <m_szArtist>五月天</m_szArtist>
+    <m_szArtist>陶喆 &amp; 卢广仲</m_szArtist>
+    <m_szArtist>彭佳慧</m_szArtist>
+    <m_szArtist>嘎嘎小姐</m_szArtist>
+    <m_szArtist>黄鸿升</m_szArtist>
+    <m_szArtist>张震岳</m_szArtist>
+    <m_szArtist>徐良</m_szArtist>
+    <m_szArtist>李治廷 &amp; 范冰冰</m_szArtist>
+    <m_szArtist>T-ara (皇冠团)</m_szArtist>
+    <m_szArtist>钟欣桐 &amp; 胡彦斌</m_szArtist>
+    <m_szArtist>温岚</m_szArtist>
+    <m_szArtist>By2 (海外音乐人)</m_szArtist>
+    <m_szArtist>严爵</m_szArtist>
+    <m_szArtist>吴莫愁</m_szArtist>
+    <m_szArtist>吴莫愁</m_szArtist>
+    <m_szArtist>周杰伦</m_szArtist>
+    <m_szArtist>Guess &amp; Michael Rudy (海外音乐人)</m_szArtist>
+    <m_szArtist>吉克隽逸</m_szArtist>
+    <m_szArtist>Guess &amp; Michael Rudy (海外音乐人)</m_szArtist>
+    <m_szArtist>羽泉</m_szArtist>
+    <m_szArtist>A Pink (海外音乐人)</m_szArtist>
+    <m_szArtist>张靓颖</m_szArtist>
+    <m_szArtist>李宇春</m_szArtist>
+    <m_szArtist>李宇春</m_szArtist>
+    <m_szArtist>李宇春</m_szArtist>
+    <m_szArtist>李宇春</m_szArtist>
+    <m_szArtist>张靓颖</m_szArtist>
+    <m_szArtist>韩庚</m_szArtist>
+    <m_szArtist>李宇春</m_szArtist>
+    <m_szArtist>李宇春</m_szArtist>
+    <m_szArtist>韩庚</m_szArtist>
+    <m_szArtist>李宇春</m_szArtist>
+    <m_szArtist>汪峰</m_szArtist>
+    <m_szArtist>T-ara (皇冠团)</m_szArtist>
+    <m_szArtist>T-ara (皇冠团)</m_szArtist>
+    <m_szArtist>刘美麟</m_szArtist>
+    <m_szArtist>潘辰</m_szArtist>
+    <m_szArtist>张韶涵</m_szArtist>
+    <m_szArtist>歌浴森</m_szArtist>
+    <m_szArtist>M2U (海外音乐人)</m_szArtist>
+    <m_szArtist>李代沫</m_szArtist>
+    <m_szArtist>金志文</m_szArtist>
+    <m_szArtist>张杰</m_szArtist>
+    <m_szArtist>Lotze (海外音乐人)</m_szArtist>
+    <m_szArtist>张含韵</m_szArtist>
+    <m_szArtist>李行亮</m_szArtist>
+    <m_szArtist>M2U (海外音乐人)</m_szArtist>
+    <m_szArtist>周笔畅</m_szArtist>
+    <m_szArtist>张韶涵</m_szArtist>
+    <m_szArtist>果味VC</m_szArtist>
+    <m_szArtist>何洁</m_szArtist>
+    <m_szArtist>JERRYC (台湾音乐人)</m_szArtist>
+    <m_szArtist>M2U (海外音乐人)</m_szArtist>
+    <m_szArtist>牛奶咖啡</m_szArtist>
+    <m_szArtist>张杰</m_szArtist>
+    <m_szArtist>温蕊尔</m_szArtist>
+    <m_szArtist>尚雯婕</m_szArtist>
+    <m_szArtist>萧亚轩</m_szArtist>
+    <m_szArtist>孙楠</m_szArtist>
+    <m_szArtist>Mic (国内音乐人)</m_szArtist>
+    <m_szArtist>李宇春</m_szArtist>
+    <m_szArtist>李宇春</m_szArtist>
+    <m_szArtist>华语群星</m_szArtist>
+    <m_szArtist>By2 (海外音乐人)</m_szArtist>
+    <m_szArtist>SISTAR (海外音乐人)</m_szArtist>
+    <m_szArtist>忍者龙剑传</m_szArtist>
+    <m_szArtist>名侦探柯南</m_szArtist>
+    <m_szArtist>BOA (海外音乐人)</m_szArtist>
+    <m_szArtist>DJ.Okawari (海外音乐人)</m_szArtist>
+    <m_szArtist>4minute (海外音乐人)</m_szArtist>
+    <m_szArtist>T-ara (皇冠团)</m_szArtist>
+    <m_szArtist>T-ara (皇冠团)</m_szArtist>
+    <m_szArtist>戴安娜·柏启华</m_szArtist>
+    <m_szArtist>勺子</m_szArtist>
+    <m_szArtist>死神</m_szArtist>
+    <m_szArtist>钢之炼金术师</m_szArtist>
+    <m_szArtist>汪峰</m_szArtist>
+    <m_szArtist>霍尊</m_szArtist>
+    <m_szArtist>吉克隽逸</m_szArtist>
+    <m_szArtist>吉克隽逸</m_szArtist>
+    <m_szArtist>谢帝</m_szArtist>
+    <m_szArtist>祈合</m_szArtist>
+    <m_szArtist>华语群星</m_szArtist>
+    <m_szArtist>刘明辉</m_szArtist>
+    <m_szArtist>王矜霖</m_szArtist>
+    <m_szArtist>周杰伦</m_szArtist>
+    <m_szArtist>王蓉</m_szArtist>
+    <m_szArtist>张惠妹</m_szArtist>
+    <m_szArtist>张惠妹</m_szArtist>
+    <m_szArtist>金志文</m_szArtist>
+    <m_szArtist>陈楚生</m_szArtist>
+    <m_szArtist>金孝琳</m_szArtist>
+    <m_szArtist>黛米·洛瓦托</m_szArtist>
+    <m_szArtist>　</m_szArtist>
+    <m_szArtist>恒大音乐MIC男团</m_szArtist>
+    <m_szArtist>姚贝娜</m_szArtist>
+    <m_szArtist>多亮</m_szArtist>
+    <m_szArtist>吉克隽逸</m_szArtist>
+    <m_szArtist>杨宗纬</m_szArtist>
+    <m_szArtist>李弘基</m_szArtist>
+    <m_szArtist>M2U (海外音乐人)</m_szArtist>
+    <m_szArtist>王心凌</m_szArtist>
+    <m_szArtist>　</m_szArtist>
+    <m_szArtist>大张伟</m_szArtist>
+    <m_szArtist>张韶涵</m_szArtist>
+    <m_szArtist>萧亚轩</m_szArtist>
+    <m_szArtist>邓紫棋</m_szArtist>
+    <m_szArtist>T-ara (皇冠团)</m_szArtist>
+    <m_szArtist>吴莫愁</m_szArtist>
+    <m_szArtist>韩庚</m_szArtist>
+    <m_szArtist>许巍</m_szArtist>
+    <m_szArtist>许巍</m_szArtist>
+    <m_szArtist>温岚</m_szArtist>
+    <m_szArtist>羽泉</m_szArtist>
+    <m_szArtist>孙燕姿</m_szArtist>
+    <m_szArtist>南拳妈妈</m_szArtist>
+    <m_szArtist>南拳妈妈</m_szArtist>
+    <m_szArtist>S.H.E (台湾音乐人)</m_szArtist>
+    <m_szArtist>王心凌</m_szArtist>
+    <m_szArtist>吴克羣</m_szArtist>
+    <m_szArtist>Beyond (香港音乐人)</m_szArtist>
+    <m_szArtist>Beyond (香港音乐人)</m_szArtist>
+    <m_szArtist>7 Sequence (海外音乐人)</m_szArtist>
+    <m_szArtist>Warak (海外音乐人)</m_szArtist>
+    <m_szArtist>MEMME (海外音乐人)</m_szArtist>
+    <m_szArtist>琳西·特莉</m_szArtist>
+    <m_szArtist>琳西·特莉</m_szArtist>
+    <m_szArtist>Nicki Minaj (海外音乐人)</m_szArtist>
+    <m_szArtist>猫头鹰之城</m_szArtist>
+    <m_szArtist>吴建豪</m_szArtist>
+    <m_szArtist>筷子兄弟</m_szArtist>
+    <m_szArtist>周笔畅</m_szArtist>
+    <m_szArtist>The Vamps (海外音乐人)</m_szArtist>
+    <m_szArtist>贾斯汀·比伯</m_szArtist>
+    <m_szArtist>DM Ashura (海外音乐人)</m_szArtist>
+    <m_szArtist>　</m_szArtist>
+    <m_szArtist>猫头鹰之城</m_szArtist>
+    <m_szArtist>贾斯汀·比伯</m_szArtist>
+    <m_szArtist>猫头鹰之城</m_szArtist>
+    <m_szArtist>安立奎·伊格莱西亚斯</m_szArtist>
+    <m_szArtist>杰西·麦卡特尼</m_szArtist>
+    <m_szArtist>M2U (海外音乐人)</m_szArtist>
+    <m_szArtist>V.K克</m_szArtist>
+    <m_szArtist>邓紫棋</m_szArtist>
+    <m_szArtist>魔力红</m_szArtist>
+    <m_szArtist>5秒的夏天</m_szArtist>
+    <m_szArtist>5秒的夏天</m_szArtist>
+    <m_szArtist>TFBOYS (国内音乐人)</m_szArtist>
+    <m_szArtist>阿肯</m_szArtist>
+    <m_szArtist>安立奎·伊格莱西亚斯</m_szArtist>
+    <m_szArtist>凯文·鲁道夫</m_szArtist>
+    <m_szArtist>埃利·古尔丁</m_szArtist>
+    <m_szArtist>凯蒂·佩里</m_szArtist>
+    <m_szArtist>凯蒂·佩里</m_szArtist>
+    <m_szArtist>猫头鹰之城</m_szArtist>
+    <m_szArtist>朴树</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>Warak (海外音乐人)</m_szArtist>
+    <m_szArtist>五月天</m_szArtist>
+    <m_szArtist>电音香水</m_szArtist>
+    <m_szArtist>电音香水</m_szArtist>
+    <m_szArtist>萧亚轩</m_szArtist>
+    <m_szArtist>S.H.E (台湾音乐人)</m_szArtist>
+    <m_szArtist>妮琪·米娜</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>fripside</m_szArtist>
+    <m_szArtist>伊基·阿塞莉娅</m_szArtist>
+    <m_szArtist>爱莉安娜·格兰德</m_szArtist>
+    <m_szArtist>凯蒂·佩里</m_szArtist>
+    <m_szArtist>怀旧女郎</m_szArtist>
+    <m_szArtist>魔力红</m_szArtist>
+    <m_szArtist>魔力红</m_szArtist>
+    <m_szArtist>爱莉安娜·格兰德</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>洁西·J</m_szArtist>
+    <m_szArtist>OneRepublic (海外音乐人)</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>梁静茹</m_szArtist>
+    <m_szArtist>5秒的夏天</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>约翰·马丁</m_szArtist>
+    <m_szArtist>李宇春</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>回音哥</m_szArtist>
+    <m_szArtist>陈慧琳</m_szArtist>
+    <m_szArtist>7 Sequence (海外音乐人)</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>王心凌</m_szArtist>
+    <m_szArtist>王心凌</m_szArtist>
+    <m_szArtist>Beyond (香港音乐人)</m_szArtist>
+    <m_szArtist>T-ara (皇冠团)</m_szArtist>
+    <m_szArtist>珍妮弗·洛佩兹</m_szArtist>
+    <m_szArtist>珍妮弗·洛佩兹</m_szArtist>
+    <m_szArtist>凯蒂·佩里</m_szArtist>
+    <m_szArtist>泰勒·斯威夫特</m_szArtist>
+    <m_szArtist>泰勒·斯威夫特</m_szArtist>
+    <m_szArtist>猫头鹰之城</m_szArtist>
+    <m_szArtist>fripSide</m_szArtist>
+    <m_szArtist>李鹤</m_szArtist>
+    <m_szArtist>玛丽莲·曼森</m_szArtist>
+    <m_szArtist>五分钱合唱团</m_szArtist>
+    <m_szArtist>水叮当</m_szArtist>
+    <m_szArtist>KARA</m_szArtist>
+    <m_szArtist>戚薇&amp;李承铉</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>奥斯汀·玛宏</m_szArtist>
+    <m_szArtist>奥斯汀·玛宏</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>梦想之龙乐队</m_szArtist>
+    <m_szArtist>VIXX (海外音乐人)</m_szArtist>
+    <m_szArtist>Girl's Day (海外音乐人)</m_szArtist>
+    <m_szArtist>奥斯汀·玛宏</m_szArtist>
+    <m_szArtist>iKz (国内音乐人)</m_szArtist>
+    <m_szArtist>疾风之刃</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>T-ara (皇冠团)</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>蜡笔团</m_szArtist>
+    <m_szArtist>As One (海外音乐人)</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>小爱与花儿乐队</m_szArtist>
+    <m_szArtist>姚贝娜</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>徐子崴</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>岚</m_szArtist>
+    <m_szArtist>KARA (海外音乐人)</m_szArtist>
+    <m_szArtist>王力宏</m_szArtist>
+    <m_szArtist>邓紫棋</m_szArtist>
+    <m_szArtist>M2U (海外音乐人)</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>克里斯蒂娜·米莲</m_szArtist>
+    <m_szArtist>胡彦斌</m_szArtist>
+    <m_szArtist>魔力红</m_szArtist>
+    <m_szArtist>薛汀哲</m_szArtist>
+    <m_szArtist>.COM乐队</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>艾薇儿·拉维尼</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>SUM 41 (海外音乐人)</m_szArtist>
+    <m_szArtist>赵乃吉 HIGH4</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>谷本贵义</m_szArtist>
+    <m_szArtist>Wonder Girls (奇迹女孩)</m_szArtist>
+    <m_szArtist>艾薇儿·拉维尼</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>眨眼182</m_szArtist>
+    <m_szArtist>T-ara (皇冠团)</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>T-ara (皇冠团)</m_szArtist>
+    <m_szArtist>蜡笔团</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>Gentlestick X M2U</m_szArtist>
+    <m_szArtist>Jun (海外音乐人)</m_szArtist>
+    <m_szArtist>奥里安斯·帕纳加里斯</m_szArtist>
+    <m_szArtist>GUMI (海外音乐人)</m_szArtist>
+    <m_szArtist>彭佳慧 feat.飞儿乐团</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>和乐器乐团</m_szArtist>
+    <m_szArtist>Wonder Girls (奇迹女孩)</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>Amaranthe (海外音乐人)</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>BAAD (海外音乐人)</m_szArtist>
+    <m_szArtist>UROBOROS (海外音乐人)</m_szArtist>
+    <m_szArtist>温岚</m_szArtist>
+    <m_szArtist>iKz</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>Rhapsody (海外音乐人)</m_szArtist>
+    <m_szArtist>M2U (海外音乐人)</m_szArtist>
+    <m_szArtist>色情涂鸦</m_szArtist>
+    <m_szArtist>2NE1 (海外音乐人)</m_szArtist>
+    <m_szArtist>Wav.AV (海外音乐人)</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>FLiP</m_szArtist>
+    <m_szArtist>安室奈美惠</m_szArtist>
+    <m_szArtist>佚名</m_szArtist>
+    <m_szArtist>陈冰</m_szArtist>
+    <m_szArtist>周杰伦</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>Wav.AV (海外音乐人)</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>张靓颖/王铮亮</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>和田光司</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>Apink (海外音乐人)</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>Three Lights Do (海外音乐人)</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>郭富城</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>2NE1 (海外音乐人)</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>BigBang (海外音乐人)</m_szArtist>
+    <m_szArtist>S9ryne (国内音乐人)</m_szArtist>
+    <m_szArtist>鸟叔</m_szArtist>
+    <m_szArtist>iKz (国内音乐人)</m_szArtist>
+    <m_szArtist>杨溢升</m_szArtist>
+    <m_szArtist>刘莉旻</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>2NE1 (海外音乐人)</m_szArtist>
+    <m_szArtist>SPYAIR (海外音乐人)</m_szArtist>
+    <m_szArtist>孝琳</m_szArtist>
+    <m_szArtist>妖精帝国</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>Sia (海外音乐人)</m_szArtist>
+    <m_szArtist>铃华优子</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>dia (海外音乐人)</m_szArtist>
+    <m_szArtist>Christopher (海外音乐人)</m_szArtist>
+    <m_szArtist>蓝井艾露</m_szArtist>
+    <m_szArtist>Julie C (海外音乐人)</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
+    <m_szArtist>临时工</m_szArtist>
