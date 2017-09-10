@@ -1,0 +1,522 @@
+    <m_szSongName>贝多芬病毒</m_szSongName>
+    <m_szSongName>素颜</m_szSongName>
+    <m_szSongName>在路上 (On The Way)</m_szSongName>
+    <m_szSongName>漂亮的女孩 (Beautiful Girl)</m_szSongName>
+    <m_szSongName>胡言乱语 (Abracadabra)</m_szSongName>
+    <m_szSongName>我的所有 (My All)</m_szSongName>
+    <m_szSongName>自由飞翔</m_szSongName>
+    <m_szSongName>日不落</m_szSongName>
+    <m_szSongName>序号1127 (No.1127)</m_szSongName>
+    <m_szSongName>睫毛弯弯</m_szSongName>
+    <m_szSongName>爱情买卖</m_szSongName>
+    <m_szSongName>欧若拉</m_szSongName>
+    <m_szSongName>你若成风</m_szSongName>
+    <m_szSongName>脱氧核糖核酸 (DNA)</m_szSongName>
+    <m_szSongName>幻影鬼魅 (Please)</m_szSongName>
+    <m_szSongName>大家好</m_szSongName>
+    <m_szSongName>极速梦想</m_szSongName>
+    <m_szSongName>浪漫惊喜(QQ炫舞主题曲)</m_szSongName>
+    <m_szSongName>斗地主</m_szSongName>
+    <m_szSongName>微博控</m_szSongName>
+    <m_szSongName>一千年以后</m_szSongName>
+    <m_szSongName>星月神话</m_szSongName>
+    <m_szSongName>爱</m_szSongName>
+    <m_szSongName>里面外面</m_szSongName>
+    <m_szSongName>逆战</m_szSongName>
+    <m_szSongName>安迪 (ANDY)</m_szSongName>
+    <m_szSongName>火辣辣的情歌</m_szSongName>
+    <m_szSongName>最炫民族风</m_szSongName>
+    <m_szSongName>QQ仙境</m_szSongName>
+    <m_szSongName>曹操</m_szSongName>
+    <m_szSongName>凑热闹</m_szSongName>
+    <m_szSongName>雪愿</m_szSongName>
+    <m_szSongName>雪愿II</m_szSongName>
+    <m_szSongName>L2</m_szSongName>
+    <m_szSongName>我就是那只松鼠</m_szSongName>
+    <m_szSongName>御龙归字谣</m_szSongName>
+    <m_szSongName>阿修罗</m_szSongName>
+    <m_szSongName>自新大陆</m_szSongName>
+    <m_szSongName>花黄瘦</m_szSongName>
+    <m_szSongName>触动心，触动爱</m_szSongName>
+    <m_szSongName>上海之恋</m_szSongName>
+    <m_szSongName>三国恋</m_szSongName>
+    <m_szSongName>恋爱ing</m_szSongName>
+    <m_szSongName>王妃</m_szSongName>
+    <m_szSongName>穷开心</m_szSongName>
+    <m_szSongName>不得不爱</m_szSongName>
+    <m_szSongName>Q先生 (MR.Q)</m_szSongName>
+    <m_szSongName>不潮不用花钱</m_szSongName>
+    <m_szSongName>亲爱的 (Honey)</m_szSongName>
+    <m_szSongName>舞娘</m_szSongName>
+    <m_szSongName>后会无期</m_szSongName>
+    <m_szSongName>伤不起</m_szSongName>
+    <m_szSongName>轩辕传奇</m_szSongName>
+    <m_szSongName>电话 (Telephone)</m_szSongName>
+    <m_szSongName>炸弹 (TNT)</m_szSongName>
+    <m_szSongName>雨樱花</m_szSongName>
+    <m_szSongName>不要停止舞动 (Don't stop movin)</m_szSongName>
+    <m_szSongName>邮递马车</m_szSongName>
+    <m_szSongName>Koko soko (外文歌曲)</m_szSongName>
+    <m_szSongName>麻烦是你的朋友 (Trouble is a Friend)</m_szSongName>
+    <m_szSongName>我的歌声里</m_szSongName>
+    <m_szSongName>自由幻想</m_szSongName>
+    <m_szSongName>英雄杀</m_szSongName>
+    <m_szSongName>High歌</m_szSongName>
+    <m_szSongName>克罗地亚狂想曲</m_szSongName>
+    <m_szSongName>仙侠传·雪字</m_szSongName>
+    <m_szSongName>野蜂飞舞</m_szSongName>
+    <m_szSongName>无限挑战</m_szSongName>
+    <m_szSongName>江南Style</m_szSongName>
+    <m_szSongName>有点甜</m_szSongName>
+    <m_szSongName>RetroPoktan (QQ音速歌曲)</m_szSongName>
+    <m_szSongName>噩梦</m_szSongName>
+    <m_szSongName>幻想</m_szSongName>
+    <m_szSongName>离开</m_szSongName>
+    <m_szSongName>鼠鼠生风</m_szSongName>
+    <m_szSongName>雪橇偷跑了</m_szSongName>
+    <m_szSongName>这些年我们一起音速的日子</m_szSongName>
+    <m_szSongName>十岁</m_szSongName>
+    <m_szSongName>跳过去 (Jump Over)</m_szSongName>
+    <m_szSongName>梦千年之恋</m_szSongName>
+    <m_szSongName>武林盟主</m_szSongName>
+    <m_szSongName>少女时代</m_szSongName>
+    <m_szSongName>卡农-摇滚版</m_szSongName>
+    <m_szSongName>东风破</m_szSongName>
+    <m_szSongName>笑傲蜀山</m_szSongName>
+    <m_szSongName>去年圣诞节 (Last Christmas)</m_szSongName>
+    <m_szSongName>跳起来 (Jumping)</m_szSongName>
+    <m_szSongName>天堂岛乐园</m_szSongName>
+    <m_szSongName>阿多尼斯</m_szSongName>
+    <m_szSongName>星语</m_szSongName>
+    <m_szSongName>摇摇宇宙</m_szSongName>
+    <m_szSongName>你应该放下我 (You Should Get Over Me)</m_szSongName>
+    <m_szSongName>自由</m_szSongName>
+    <m_szSongName>虐心</m_szSongName>
+    <m_szSongName>蜂鸟</m_szSongName>
+    <m_szSongName>全世界 (Around The World)</m_szSongName>
+    <m_szSongName>乐团狂想曲</m_szSongName>
+    <m_szSongName>日复一日 (Day by day)</m_szSongName>
+    <m_szSongName>告诉我吧 (Tell me Tell me)</m_szSongName>
+    <m_szSongName>彩色的黑</m_szSongName>
+    <m_szSongName>夜店之王 (Club Can't Handle Me)</m_szSongName>
+    <m_szSongName>绅士 (Gentleman)</m_szSongName>
+    <m_szSongName>不要睡懒觉</m_szSongName>
+    <m_szSongName>十二生肖</m_szSongName>
+    <m_szSongName>最高战斗精神 (The Raising Fighting Spirit)</m_szSongName>
+    <m_szSongName>布加迪 (Bugatti)</m_szSongName>
+    <m_szSongName>依然爱你</m_szSongName>
+    <m_szSongName>实现你的梦想 (Rage Your Dream)</m_szSongName>
+    <m_szSongName>死一样的痛过</m_szSongName>
+    <m_szSongName>危险约会</m_szSongName>
+    <m_szSongName>哭了又哭 (Cry Cry)</m_szSongName>
+    <m_szSongName>红色激情 (Red Hot)</m_szSongName>
+    <m_szSongName>倚天剑雨</m_szSongName>
+    <m_szSongName>玩具战争 (Toy War)</m_szSongName>
+    <m_szSongName>甩葱歌</m_szSongName>
+    <m_szSongName>坏苹果 (Bad Apple)</m_szSongName>
+    <m_szSongName>少女绮想曲~梦幻决斗</m_szSongName>
+    <m_szSongName>天堂岛乐园 (Paradise)</m_szSongName>
+    <m_szSongName>田园日记</m_szSongName>
+    <m_szSongName>分解 (Break Down)</m_szSongName>
+    <m_szSongName>杨贵妃</m_szSongName>
+    <m_szSongName>疯狂GO (MichiGO)</m_szSongName>
+    <m_szSongName>他的猫</m_szSongName>
+    <m_szSongName>灿烂的春天 (Bright Spring)</m_szSongName>
+    <m_szSongName>疯子的天空 (Lunatic Sky)</m_szSongName>
+    <m_szSongName>一天一天</m_szSongName>
+    <m_szSongName>黑暗王子</m_szSongName>
+    <m_szSongName>真的爱你</m_szSongName>
+    <m_szSongName>就要K歌</m_szSongName>
+    <m_szSongName>一千个伤心的理由</m_szSongName>
+    <m_szSongName>无情的雨、无情的你</m_szSongName>
+    <m_szSongName>别看我只是一只羊</m_szSongName>
+    <m_szSongName>紫色激情</m_szSongName>
+    <m_szSongName>戏剧 (Drama)</m_szSongName>
+    <m_szSongName>老爹</m_szSongName>
+    <m_szSongName>没有人 (Nobody)</m_szSongName>
+    <m_szSongName>红日</m_szSongName>
+    <m_szSongName>父亲</m_szSongName>
+    <m_szSongName>那些年</m_szSongName>
+    <m_szSongName>睡在我上铺的兄弟</m_szSongName>
+    <m_szSongName>再见</m_szSongName>
+    <m_szSongName>西游记序曲</m_szSongName>
+    <m_szSongName>五百年沧海桑田</m_szSongName>
+    <m_szSongName>情书 (Luv Letter)</m_szSongName>
+    <m_szSongName>第一天</m_szSongName>
+    <m_szSongName>哒哒哒 (DA DA DA)</m_szSongName>
+    <m_szSongName>装了又装</m_szSongName>
+    <m_szSongName>如果我能飞 (If I Could Fly)</m_szSongName>
+    <m_szSongName>致命之剑</m_szSongName>
+    <m_szSongName>狗仔舞</m_szSongName>
+    <m_szSongName>波爷</m_szSongName>
+    <m_szSongName>天马座的幻想</m_szSongName>
+    <m_szSongName>当我们宅一块</m_szSongName>
+    <m_szSongName>傻笑</m_szSongName>
+    <m_szSongName>因为爱</m_szSongName>
+    <m_szSongName>Grafiore (纯音乐) (Grafiore)</m_szSongName>
+    <m_szSongName>桃源鄉的外星人</m_szSongName>
+    <m_szSongName>一路两个人</m_szSongName>
+    <m_szSongName>是否 (YES NO)</m_szSongName>
+    <m_szSongName>迷幻模式 (Trancetic Mode)</m_szSongName>
+    <m_szSongName>青鸟</m_szSongName>
+    <m_szSongName>焰火之夜 (Night of Fire)</m_szSongName>
+    <m_szSongName>神秘人 (X-MAN)</m_szSongName>
+    <m_szSongName>牵起我的手 (Take My Hand)</m_szSongName>
+    <m_szSongName>悲伤逆流 (I Want My Tears Back)</m_szSongName>
+    <m_szSongName>着陆 (Landing)</m_szSongName>
+    <m_szSongName>公公偏头痛</m_szSongName>
+    <m_szSongName>伤心的人别听慢歌</m_szSongName>
+    <m_szSongName>噢买尬</m_szSongName>
+    <m_szSongName>突然好想你</m_szSongName>
+    <m_szSongName>那个女孩</m_szSongName>
+    <m_szSongName>老妈摇滚 (Mommie 's Rock)</m_szSongName>
+    <m_szSongName>掌声 (Applause)</m_szSongName>
+    <m_szSongName>超有感</m_szSongName>
+    <m_szSongName>走慢一点点</m_szSongName>
+    <m_szSongName>那时雨</m_szSongName>
+    <m_szSongName>一夜惊喜</m_szSongName>
+    <m_szSongName>性感的爱 (Sexy Love)</m_szSongName>
+    <m_szSongName>在一起</m_szSongName>
+    <m_szSongName>一路不变</m_szSongName>
+    <m_szSongName>没理由</m_szSongName>
+    <m_szSongName>好的情人</m_szSongName>
+    <m_szSongName>就现在</m_szSongName>
+    <m_szSongName>我相信</m_szSongName>
+    <m_szSongName>夜曲</m_szSongName>
+    <m_szSongName>撕裂背面 (Ripping the Backside)</m_szSongName>
+    <m_szSongName>月到天心处</m_szSongName>
+    <m_szSongName>岩石缸 (Rock Cylinder)</m_szSongName>
+    <m_szSongName>在一起</m_szSongName>
+    <m_szSongName>不不不 (NoNoNo)</m_szSongName>
+    <m_szSongName>感觉</m_szSongName>
+    <m_szSongName>蜀绣</m_szSongName>
+    <m_szSongName>酷啦啦 (Kulala)</m_szSongName>
+    <m_szSongName>千域千寻</m_szSongName>
+    <m_szSongName>皇后与梦想</m_szSongName>
+    <m_szSongName>我的模样</m_szSongName>
+    <m_szSongName>狂草</m_szSongName>
+    <m_szSongName>为什么是我 (Why Me)</m_szSongName>
+    <m_szSongName>下个，路口，见</m_szSongName>
+    <m_szSongName>我的标志 (My Logo)</m_szSongName>
+    <m_szSongName>再不疯狂我们就老了</m_szSongName>
+    <m_szSongName>一起摇摆</m_szSongName>
+    <m_szSongName>丫丫丫 (Yayaya)</m_szSongName>
+    <m_szSongName>神奇女侠 (Wonder Woman)</m_szSongName>
+    <m_szSongName>卖火柴的小女孩</m_szSongName>
+    <m_szSongName>绽放爱</m_szSongName>
+    <m_szSongName>那个女孩 (That Girl)</m_szSongName>
+    <m_szSongName>三天三夜</m_szSongName>
+    <m_szSongName>空白的命运 (Space Destiny)</m_szSongName>
+    <m_szSongName>即客</m_szSongName>
+    <m_szSongName>美丽的光 (Beautiful Light)</m_szSongName>
+    <m_szSongName>爱不解释</m_szSongName>
+    <m_szSongName>赤月爱 (Love of red moon)</m_szSongName>
+    <m_szSongName>照顾自己</m_szSongName>
+    <m_szSongName>愿得一人心</m_szSongName>
+    <m_szSongName>第二选择 (Second Choice)</m_szSongName>
+    <m_szSongName>肋骨</m_szSongName>
+    <m_szSongName>讲不听</m_szSongName>
+    <m_szSongName>木星3号</m_szSongName>
+    <m_szSongName>小永远</m_szSongName>
+    <m_szSongName>亲爱的莫扎特 (Dear Mozart)</m_szSongName>
+    <m_szSongName>君往何处</m_szSongName>
+    <m_szSongName>去寻找</m_szSongName>
+    <m_szSongName>逆态度</m_szSongName>
+    <m_szSongName>我不知道发生什么</m_szSongName>
+    <m_szSongName>我吻了一个女孩 (i kissed a girl)</m_szSongName>
+    <m_szSongName>想念圣诞节</m_szSongName>
+    <m_szSongName>飞越的心</m_szSongName>
+    <m_szSongName>单身女士 (Single Ladies)</m_szSongName>
+    <m_szSongName>如初</m_szSongName>
+    <m_szSongName>你好宝贝 (Hello Baby)</m_szSongName>
+    <m_szSongName>爸爸去哪儿</m_szSongName>
+    <m_szSongName>独一无二</m_szSongName>
+    <m_szSongName>向我屈服 (Give It To Me)</m_szSongName>
+    <m_szSongName>鲜烈之龙</m_szSongName>
+    <m_szSongName>名侦探柯南(主题曲)</m_szSongName>
+    <m_szSongName>No.1</m_szSongName>
+    <m_szSongName>花之舞(Flower dance)</m_szSongName>
+    <m_szSongName>喜欢水吗</m_szSongName>
+    <m_szSongName>不倒翁 (Roly-Poly)</m_szSongName>
+    <m_szSongName>目标 (Target)</m_szSongName>
+    <m_szSongName>远方 (Faraway)</m_szSongName>
+    <m_szSongName>闪光的糖果 (Sugar Glitter)</m_szSongName>
+    <m_szSongName>滚动的星 (Rolling Star)</m_szSongName>
+    <m_szSongName>重写 (Rewrite)</m_szSongName>
+    <m_szSongName>存在</m_szSongName>
+    <m_szSongName>卷珠帘</m_szSongName>
+    <m_szSongName>夏日时光 (Summer Time)</m_szSongName>
+    <m_szSongName>爱情发的光</m_szSongName>
+    <m_szSongName>明天不上班</m_szSongName>
+    <m_szSongName>合体打飞机</m_szSongName>
+    <m_szSongName>快乐送</m_szSongName>
+    <m_szSongName>我所幻想的未来</m_szSongName>
+    <m_szSongName>她妈妈不喜欢我</m_szSongName>
+    <m_szSongName>双截棍</m_szSongName>
+    <m_szSongName>【限时】好乐Day</m_szSongName>
+    <m_szSongName>好胆你就来</m_szSongName>
+    <m_szSongName>渴了</m_szSongName>
+    <m_szSongName>哭不出来</m_szSongName>
+    <m_szSongName>丝路</m_szSongName>
+    <m_szSongName>再见你好</m_szSongName>
+    <m_szSongName>让他去吧 (Let It Go)</m_szSongName>
+    <m_szSongName>极限生存挑战</m_szSongName>
+    <m_szSongName>M.I.C 表演时间 (M.I.C Showtime)</m_szSongName>
+    <m_szSongName>随它吧</m_szSongName>
+    <m_szSongName>少年壮志不言愁</m_szSongName>
+    <m_szSongName>我唱故我在</m_szSongName>
+    <m_szSongName>底细</m_szSongName>
+    <m_szSongName>话说</m_szSongName>
+    <m_szSongName>第一选择 (First Choice)</m_szSongName>
+    <m_szSongName>心电心</m_szSongName>
+    <m_szSongName>极·大盗魔理沙</m_szSongName>
+    <m_szSongName>【限时】倍儿爽</m_szSongName>
+    <m_szSongName>活在此刻</m_szSongName>
+    <m_szSongName>潇洒小姐</m_szSongName>
+    <m_szSongName>龙卷风</m_szSongName>
+    <m_szSongName>色调 (HUE)</m_szSongName>
+    <m_szSongName>无所不在</m_szSongName>
+    <m_szSongName>玩世不恭</m_szSongName>
+    <m_szSongName>此时此刻</m_szSongName>
+    <m_szSongName>曾经的你</m_szSongName>
+    <m_szSongName>夏天的风</m_szSongName>
+    <m_szSongName>回家乡</m_szSongName>
+    <m_szSongName>咕叽咕叽</m_szSongName>
+    <m_szSongName>决斗巴哈</m_szSongName>
+    <m_szSongName>再陪我看一次</m_szSongName>
+    <m_szSongName>中国话</m_szSongName>
+    <m_szSongName>甜蜜的爱情 (Happy Loving)</m_szSongName>
+    <m_szSongName>老子说</m_szSongName>
+    <m_szSongName>不再犹豫</m_szSongName>
+    <m_szSongName>光辉岁月</m_szSongName>
+    <m_szSongName>【限时】神圣之光</m_szSongName>
+    <m_szSongName>暗夜苏醒</m_szSongName>
+    <m_szSongName>黄金之城</m_szSongName>
+    <m_szSongName>震撼出击 (Shatter Me)</m_szSongName>
+    <m_szSongName>逃之夭夭 (Take Flight)</m_szSongName>
+    <m_szSongName>敲响警钟 (Pound the Alarm)</m_szSongName>
+    <m_szSongName>好时光 (Good Time)</m_szSongName>
+    <m_szSongName>这是所有吗 (Is this all)</m_szSongName>
+    <m_szSongName>小苹果</m_szSongName>
+    <m_szSongName>和你一起 (Withyou)</m_szSongName>
+    <m_szSongName>昨晚 (Last Night)</m_szSongName>
+    <m_szSongName>只要你爱我 (As Long As You Love Me)</m_szSongName>
+    <m_szSongName>致爱丽丝</m_szSongName>
+    <m_szSongName>极·Through The Fire And Flames</m_szSongName>
+    <m_szSongName>美好的时代 (Beautiful Times)</m_szSongName>
+    <m_szSongName>宝贝 (Baby)</m_szSongName>
+    <m_szSongName>深海空间 (The Saltwater Room)</m_szSongName>
+    <m_szSongName>我喜欢它 (I Like It)</m_szSongName>
+    <m_szSongName>你怎么睡着的 (How Do You Sleep)</m_szSongName>
+    <m_szSongName>梦幻时光 (Dreamy Day)</m_szSongName>
+    <m_szSongName>琴之翼</m_szSongName>
+    <m_szSongName>后会无期</m_szSongName>
+    <m_szSongName>尽情舞动 (Moves Like Jagger)</m_szSongName>
+    <m_szSongName>不能停止 (Don't Stop)</m_szSongName>
+    <m_szSongName>完美女孩 (She Looks So Perfect)</m_szSongName>
+    <m_szSongName>魔法城堡</m_szSongName>
+    <m_szSongName>别在意 (Don't Matter)</m_szSongName>
+    <m_szSongName>有我的宝贝 (There Goes My Baby)</m_szSongName>
+    <m_szSongName>摇滚起来 (Let it Rock)</m_szSongName>
+    <m_szSongName>燃烧 (Burn)</m_szSongName>
+    <m_szSongName>怒吼 (Roar)</m_szSongName>
+    <m_szSongName>黑马 (Dark Horse)</m_szSongName>
+    <m_szSongName>我什么时候能再见到你 (When Can...)</m_szSongName>
+    <m_szSongName>平凡之路</m_szSongName>
+    <m_szSongName>神秘歌曲01</m_szSongName>
+    <m_szSongName>雨伞 (Umbrella)</m_szSongName>
+    <m_szSongName>你闪亮过吗 (Do You Ever Shine)</m_szSongName>
+    <m_szSongName>神秘歌曲04</m_szSongName>
+    <m_szSongName>紧紧相依 (Cling Cling)</m_szSongName>
+    <m_szSongName>艳遇</m_szSongName>
+    <m_szSongName>不想长大</m_szSongName>
+    <m_szSongName>星舰 (Starships)</m_szSongName>
+    <m_szSongName>神秘歌曲07</m_szSongName>
+    <m_szSongName>神秘歌曲06</m_szSongName>
+    <m_szSongName>奢侈 (Fancy)</m_szSongName>
+    <m_szSongName>大麻烦 (Problem)</m_szSongName>
+    <m_szSongName>上周五的夜晚 (Last Friday Night)</m_szSongName>
+    <m_szSongName>调酒师 (Bartender)</m_szSongName>
+    <m_szSongName>地图 (Maps)</m_szSongName>
+    <m_szSongName>公用电话 (Payphone)</m_szSongName>
+    <m_szSongName>解放 (Break Free)</m_szSongName>
+    <m_szSongName>神秘歌曲10</m_szSongName>
+    <m_szSongName>碰碰 (Bang Bang)</m_szSongName>
+    <m_szSongName>爱到尽头 (Love Runs Out)</m_szSongName>
+    <m_szSongName>神秘歌曲02</m_szSongName>
+    <m_szSongName>神秘歌曲03</m_szSongName>
+    <m_szSongName>神秘歌曲05</m_szSongName>
+    <m_szSongName>神秘歌曲08</m_szSongName>
+    <m_szSongName>神秘歌曲09</m_szSongName>
+    <m_szSongName>暖暖</m_szSongName>
+    <m_szSongName>没有说出口的一切 (Everything I Didn't Say)</m_szSongName>
+    <m_szSongName>生日快乐 (Happy Birthday)</m_szSongName>
+    <m_szSongName>为你走天涯 (Anywhere For You)</m_szSongName>
+    <m_szSongName>1987我不知会遇见你</m_szSongName>
+    <m_szSongName>神秘歌曲11</m_szSongName>
+    <m_szSongName>神秘歌曲12</m_szSongName>
+    <m_szSongName>我不是你的狗</m_szSongName>
+    <m_szSongName>不如跳舞</m_szSongName>
+    <m_szSongName>心跳倒计时 (Megaburn)</m_szSongName>
+    <m_szSongName>神秘歌曲13</m_szSongName>
+    <m_szSongName>神秘歌曲14</m_szSongName>
+    <m_szSongName>宝贝男孩 (Baby Boy)</m_szSongName>
+    <m_szSongName>昨天今天</m_szSongName>
+    <m_szSongName>大地</m_szSongName>
+    <m_szSongName>序号9 (NUMBER 9)</m_szSongName>
+    <m_szSongName>初恋 (First Love)</m_szSongName>
+    <m_szSongName>纵情欢乐 (Live It Up)</m_szSongName>
+    <m_szSongName>人生就是这样 (This Is How We Do)</m_szSongName>
+    <m_szSongName>通通甩掉 (Shake It Off)</m_szSongName>
+    <m_szSongName>我们再也回不去了 (We Are Never ...)</m_szSongName>
+    <m_szSongName>东京 (Tokyo)</m_szSongName>
+    <m_szSongName>神秘歌曲15</m_szSongName>
+    <m_szSongName>爱我少一点(电影《黑月》主题曲)</m_szSongName>
+    <m_szSongName>这就是万圣节 (This Is Halloween)</m_szSongName>
+    <m_szSongName>你在等什么 (What Are You Waiting For)</m_szSongName>
+    <m_szSongName>万圣节 (Halloween)</m_szSongName>
+    <m_szSongName>神秘歌曲16</m_szSongName>
+    <m_szSongName>幸运幸运 (Lucky Lucky)</m_szSongName>
+    <m_szSongName>神秘歌曲17</m_szSongName>
+    <m_szSongName>当我找到你 (Till I Find You)</m_szSongName>
+    <m_szSongName>哦耶 (Mmm Yeah)</m_szSongName>
+    <m_szSongName>神秘歌曲19</m_szSongName>
+    <m_szSongName>生命的赌注 (I Bet My Life)</m_szSongName>
+    <m_szSongName>错误 (Error)</m_szSongName>
+    <m_szSongName>我想你 (I Miss You)</m_szSongName>
+    <m_szSongName>说点什么 (Say Somethin)</m_szSongName>
+    <m_szSongName>我要买买买</m_szSongName>
+    <m_szSongName>疾风街道</m_szSongName>
+    <m_szSongName>神秘歌曲20</m_szSongName>
+    <m_szSongName>神秘歌曲22</m_szSongName>
+    <m_szSongName>无糖 (SugarFree)</m_szSongName>
+    <m_szSongName>神秘歌曲21</m_szSongName>
+    <m_szSongName>巴巴巴 (Bar Bar Bar)</m_szSongName>
+    <m_szSongName>摇滚铃儿响叮当 (Jingle Bell Rock)</m_szSongName>
+    <m_szSongName>神秘歌曲23</m_szSongName>
+    <m_szSongName>神秘歌曲24</m_szSongName>
+    <m_szSongName>小飞机</m_szSongName>
+    <m_szSongName>时间都去哪儿了</m_szSongName>
+    <m_szSongName>神秘歌曲25</m_szSongName>
+    <m_szSongName>大时代</m_szSongName>
+    <m_szSongName>神秘歌曲26</m_szSongName>
+    <m_szSongName>零重力 (Zero-G)</m_szSongName>
+    <m_szSongName>游戏中 (In The Game)</m_szSongName>
+    <m_szSongName>就是现在我看你有戏</m_szSongName>
+    <m_szSongName>多远都要在一起</m_szSongName>
+    <m_szSongName>NB 怒吼 (NB BLAST)</m_szSongName>
+    <m_szSongName>神秘歌曲28</m_szSongName>
+    <m_szSongName>神秘歌曲27</m_szSongName>
+    <m_szSongName>神秘歌曲31</m_szSongName>
+    <m_szSongName>神秘歌曲34</m_szSongName>
+    <m_szSongName>神秘歌曲35</m_szSongName>
+    <m_szSongName>神秘歌曲30</m_szSongName>
+    <m_szSongName>神秘歌曲33</m_szSongName>
+    <m_szSongName>神秘歌曲32</m_szSongName>
+    <m_szSongName>神秘歌曲29</m_szSongName>
+    <m_szSongName>我要更多 (I need more)</m_szSongName>
+    <m_szSongName>不是猛龙不过江</m_szSongName>
+    <m_szSongName>糖果 (Sugar)</m_szSongName>
+    <m_szSongName>X先生 (Mr.X)</m_szSongName>
+    <m_szSongName>路哈时代</m_szSongName>
+    <m_szSongName>神秘歌曲36</m_szSongName>
+    <m_szSongName>神秘歌曲37</m_szSongName>
+    <m_szSongName>神秘歌曲42</m_szSongName>
+    <m_szSongName>神秘歌曲38</m_szSongName>
+    <m_szSongName>凯蒂猫 (hello kitty)</m_szSongName>
+    <m_szSongName>神秘歌曲39</m_szSongName>
+    <m_szSongName>仍在等待 (still waiting)</m_szSongName>
+    <m_szSongName>不想听爱情故事</m_szSongName>
+    <m_szSongName>神秘歌曲40</m_szSongName>
+    <m_szSongName>神秘歌曲41</m_szSongName>
+    <m_szSongName>龙魂 (Dragon Soul)</m_szSongName>
+    <m_szSongName>停止 (stop)</m_szSongName>
+    <m_szSongName>女朋友 (Girlfriend)</m_szSongName>
+    <m_szSongName>神秘歌曲49</m_szSongName>
+    <m_szSongName>狗咬狗 (Dogs Eating Dogs)</m_szSongName>
+    <m_szSongName>再见OK (Goodbye OK)</m_szSongName>
+    <m_szSongName>神秘歌曲43</m_szSongName>
+    <m_szSongName>滴滴答 (TicTicToc)</m_szSongName>
+    <m_szSongName>FM</m_szSongName>
+    <m_szSongName>神秘歌曲44</m_szSongName>
+    <m_szSongName>神秘歌曲18</m_szSongName>
+    <m_szSongName>无可言喻</m_szSongName>
+    <m_szSongName>少女幻葬~死灵幻想 (少女幻葬~Necro Fantasy)</m_szSongName>
+    <m_szSongName>在你眼里 (According To You)</m_szSongName>
+    <m_szSongName>雪月花</m_szSongName>
+    <m_szSongName>心之火</m_szSongName>
+    <m_szSongName>神秘歌曲46</m_szSongName>
+    <m_szSongName>神秘歌曲45</m_szSongName>
+    <m_szSongName>反击之刃</m_szSongName>
+    <m_szSongName>不同的眼泪 (2 Different Tears)</m_szSongName>
+    <m_szSongName>神秘歌曲47</m_szSongName>
+    <m_szSongName>虚幻 (Unreal)</m_szSongName>
+    <m_szSongName>神秘歌曲50</m_szSongName>
+    <m_szSongName>好想大声说爱你</m_szSongName>
+    <m_szSongName>黑凤蝶 (Black Swallowtail)</m_szSongName>
+    <m_szSongName>你越坏我越爱</m_szSongName>
+    <m_szSongName>自然时代的旅行</m_szSongName>
+    <m_szSongName>神秘歌曲48</m_szSongName>
+    <m_szSongName>仙境土地 (Land Of Immortals)</m_szSongName>
+    <m_szSongName>爱情鸟 (Love Bird)</m_szSongName>
+    <m_szSongName>哦对手 (Ohrival)</m_szSongName>
+    <m_szSongName>你爱我吗 (Do You Love Me)</m_szSongName>
+    <m_szSongName>双重间谍</m_szSongName>
+    <m_szSongName>神秘歌曲51</m_szSongName>
+    <m_szSongName>神秘歌曲49</m_szSongName>
+    <m_szSongName>麦当娜 (Madonna)</m_szSongName>
+    <m_szSongName>黑色妆颜 (Black Make Up)</m_szSongName>
+    <m_szSongName>神秘歌曲52</m_szSongName>
+    <m_szSongName>等的人</m_szSongName>
+    <m_szSongName>英雄</m_szSongName>
+    <m_szSongName>神秘歌曲53</m_szSongName>
+    <m_szSongName>神秘歌曲54</m_szSongName>
+    <m_szSongName>双重间谍</m_szSongName>
+    <m_szSongName>神秘歌曲55</m_szSongName>
+    <m_szSongName>神秘歌曲56</m_szSongName>
+    <m_szSongName>只是没有如果</m_szSongName>
+    <m_szSongName>神秘歌曲57</m_szSongName>
+    <m_szSongName>蝴蝶 (Butter Fly )</m_szSongName>
+    <m_szSongName>神秘歌曲58</m_szSongName>
+    <m_szSongName>全新的日子 (Brand New Days )</m_szSongName>
+    <m_szSongName>神秘歌曲59</m_szSongName>
+    <m_szSongName>辉煌的岁月 (GLORIOUS DAYS)</m_szSongName>
+    <m_szSongName>神秘歌曲60</m_szSongName>
+    <m_szSongName>就是孙悟空</m_szSongName>
+    <m_szSongName>神秘歌曲61</m_szSongName>
+    <m_szSongName>火 (Fire)</m_szSongName>
+    <m_szSongName>神秘歌曲62</m_szSongName>
+    <m_szSongName>疯狗 (Crazy Dog)</m_szSongName>
+    <m_szSongName>初夏</m_szSongName>
+    <m_szSongName>就是现在 (Right Now)</m_szSongName>
+    <m_szSongName>不给糖就捣乱</m_szSongName>
+    <m_szSongName>梦想召唤王</m_szSongName>
+    <m_szSongName>Halo,Halo,一起来</m_szSongName>
+    <m_szSongName>神秘歌曲63</m_szSongName>
+    <m_szSongName>神秘歌曲64</m_szSongName>
+    <m_szSongName>神秘歌曲65</m_szSongName>
+    <m_szSongName>我最红 (I'm the best)</m_szSongName>
+    <m_szSongName>肆虐的尘土 (RAGE OF DUST)</m_szSongName>
+    <m_szSongName>天堂 (Paradise)</m_szSongName>
+    <m_szSongName>紊乱 (Disorder)</m_szSongName>
+    <m_szSongName>神秘歌曲66</m_szSongName>
+    <m_szSongName>神秘歌曲67</m_szSongName>
+    <m_szSongName>神秘歌曲68</m_szSongName>
+    <m_szSongName>神秘歌曲69</m_szSongName>
+    <m_szSongName>神秘歌曲70</m_szSongName>
+    <m_szSongName>神秘歌曲71</m_szSongName>
+    <m_szSongName>神秘歌曲72</m_szSongName>
+    <m_szSongName>舞动你的身体 (Move Your Body)</m_szSongName>
+    <m_szSongName>遗迹 (Remains)</m_szSongName>
+    <m_szSongName>神秘歌曲73</m_szSongName>
+    <m_szSongName>神秘歌曲74</m_szSongName>
+    <m_szSongName>神秘歌曲75</m_szSongName>
+    <m_szSongName>神秘歌曲76</m_szSongName>
+    <m_szSongName>和我交往吧</m_szSongName>
+    <m_szSongName>郁金香 (Tulips)</m_szSongName>
+    <m_szSongName>Accentier (外文歌曲)</m_szSongName>
+    <m_szSongName>噢啦啦 (Ooh La La)</m_szSongName>
+    <m_szSongName>神秘歌曲77</m_szSongName>
+    <m_szSongName>神秘歌曲78</m_szSongName>
+    <m_szSongName>神秘歌曲79</m_szSongName>
+    <m_szSongName>神秘歌曲80</m_szSongName>
